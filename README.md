@@ -1,4 +1,4 @@
-# canais-de-direita
+# Canais de Direita
 
 ### Lista de canais de direita
 
